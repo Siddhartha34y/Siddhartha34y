@@ -55,9 +55,9 @@ A travel guide website that provides detailed information about **Paris, NYC, To
 **Tech Stack:** HTML, CSS, JavaScript  
 📽 **[Live Demo](https://your-project-link.com)**  
 
-### 🌟 **FoodHub WebSite (Full Stack)**  
-A responsive UI clone of WhatsApp Web with interactive chat features.  
-**Tech Stack:** HTML, CSS, JavaScript,React.js,Node.js,Express.js,MongoDB,TailwindCSS 
+### 🌟 **Spotify WebSite (Frontend)**  
+A responsive UI clone of Spotify Web with interactive Listing Song features.  
+**Tech Stack:** HTML, CSS, JavaScript,TailwindCSS 
 📽 **[Live Demo](https://your-project-link.com)**  
 
 ### 🌟 **Twitter Clone**  
