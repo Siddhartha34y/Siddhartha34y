@@ -1,3 +1,4 @@
+![logo](https://github.com/Siddhartha34y/Siddhartha34y/blob/main/pawan.png.png)
 <h1 align="center">Hi 👋, I'm Tek Narayan Yadav</h1>
 <p align="center">
   <img src="https://th.bing.com/th/id/R.201a0fce023b2b6590a6b18a4fdd4f16?rik=i4TmB%2ftPJzQPbg&pid=ImgRaw&r=0" width="400px">
