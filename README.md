@@ -34,7 +34,8 @@
 <p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/></p>
 
 ### 🛠 Backend & Database  
-<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><img width="48"height="48"src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" alt="Express.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/></p>
+<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" alt="Express.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/></p>
+
 
 ### 🛠 Tools & IDEs  
 <p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/><img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/><img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/></p>
@@ -51,18 +52,18 @@
 ### 🌟 **Explorer's Hub**  
 A travel guide website that provides detailed information about **Paris, NYC, Tokyo**, and more!  
 **Tech Stack:** HTML, CSS, JavaScript  
-🔗 **[Live Demo](https://your-project-link.com)**  
+📽 **[Live Demo](https://your-project-link.com)**  
 
 ### 🌟 **FoodHub WebSite (Full Stack)**  
 A responsive UI clone of WhatsApp Web with interactive chat features.  
 **Tech Stack:** HTML, CSS, JavaScript,React.js,Node.js,Express.js,MongoDB,TailwindCSS 
-🔗 **[Live Demo](https://your-project-link.com)**  
+📽 **[Live Demo](https://your-project-link.com)**  
 
 ### 🌟 **Twitter Clone**  
 A frontend clone of Twitter using Tailwind CSS.  
 **Tech Stack:** HTML, Tailwind CSS  
-📽 Live Demo
-![Project Demo](https://www.linkedin.com/posts/tek-narayan-yadav-108938289_webdevelopment-frontenddevelopment-twitterclone-activity-7259247668810448896-SX7b?utm_source=social_share_video_v2&utm_medium=android_app&utm_campaign=copy_link) 
+📽 **[Live Demo](https://your-project-link.com)** 
+
 
 ---
 
