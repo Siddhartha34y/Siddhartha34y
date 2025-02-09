@@ -34,7 +34,7 @@
 <p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/></p>
 
 ### 🛠 Backend & Database  
-<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" alt="Express.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/></p>
+<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><img width="48" height="48" src="https://img.icons8.com/?size=100&id=2ZOaTclOqD4q&format=png&color=000000" alt="Express.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/></p>
 
 
 ### 🛠 Tools & IDEs  
