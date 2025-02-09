@@ -1,47 +1,78 @@
 <h1 align="center">Hi 👋, I'm Tek Narayan Yadav</h1>
 <p align="center">
-  <img width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" alt="Coding GIF"></p>
-<h3 align="center">🚀 MERN STACK | Full Stack Web Developer 🚀</h3>
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="400px">
+</p>
+<h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast 🚀</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Siddhartha34y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Siddhartha34y&label=Profile%20views&color=blue&style=flat" alt="Profile Views"><img src="https://img.shields.io/github/followers/Siddhartha34y?label=Followers&style=social" alt="GitHub Followers"></p>
 
-## 👨‍🎓 About Me  
-- 🎓 Student at **KPR Institute of Engineering and Technology**  
-- 🌱 Currently learning **Web Development & DSA with Java**  
-- 📱 Exploring **App Development with React Native**  
-- 👯 Looking to **collaborate on Web Development projects**  
-- 💬 Ask me about **Web Development, VS Code, JavaScript, React.js, MongoDB, Node.js, Java, C, Python**  
-- 🌐 Check out my **[Portfolio](https://imaginative-conkies-077921.netlify.app/)**  
-- 😄 Pronouns: **Techie**  
-- ⚡ Fun fact: **I love solving coding challenges & building interactive web applications!**  
+---
 
-## 📫 Connect with me  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tek-narayan-yadav-108938289)  
+## 🚀 About Me  
+- 🎓 **Student at KPR Institute of Engineering and Technology**  
+- 🌱 Currently learning **Web Development, DSA with Java & App Development (React Native)**  
+- 🛠 **Building scalable full-stack applications with React.js, Node.js, MongoDB, and Express.js**  
+- 👯 Looking to **collaborate on exciting Web Development projects**  
+- 💬 Ask me about **JavaScript, React, MongoDB, Node.js, Java, Python, and more!**  
+- 🌍 **Check out my Portfolio:** **[Click Here](https://imaginative-conkies-077921.netlify.app/)**  
+- ⚡ **Fun fact:** I love solving coding challenges & debugging complex issues!  
+
+---
+
+## 🌐 Connect with Me  
+<p align="left"><a href="mailto:23cs188@kpriet.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a><a href="https://www.linkedin.com/in/tek-narayan-yadav-108938289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 ---
 
 ## 🚀 Tech Stack  
-### 💻 Languages  
-<p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=23028&format=png&color=000000" alt="HTML" /><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" /><img width="48" height="48" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" alt="React.js"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=39854&format=png&color=000000" alt="JavaScript"/></p>
+### 🖥️ Programming Languages  
+<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/><img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/><img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="Python"/><img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/></p>
 
-### 🛠️ Frameworks & Tools  
-<p align="left">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-  <img width="50" height="50" src="https://img.icons8.com/plasticine/100/intellij-idea.png" alt="IntelliJ IDEA"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm"/>
-  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="Git"/>
-</p>
+### 💻 Frontend  
+<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/><img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/><img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/></p>
+
+### 🛠 Backend & Database  
+<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/><img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" alt="Express.js"/><img width="48" height="48" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/></p>
+
+### 🛠 Tools & IDEs  
+<p align="left"><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/><img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="IntelliJ IDEA"/><img width="48" height="48" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="Android Studio"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="Git"/></p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Siddhartha34y&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha34y&" alt="GitHub Streak" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha34y&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhartha34y&theme=dark" alt="GitHub Streak"></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha34y&layout=compact&theme=radical" alt="Top Languages"></p>
 
 ---
 
-🔥 **Passionate about learning, coding, and building cool projects!** 🚀  
-⭐️ Feel free to **star** my repos and connect with me!  
+## 🎯 Fun Projects  
+### 🌟 **Explorer's Hub**  
+A travel guide website that provides detailed information about **Paris, NYC, Tokyo**, and more!  
+**Tech Stack:** HTML, CSS, JavaScript  
+🔗 **[Live Demo](https://your-project-link.com)**  
+
+### 🌟 **FoodHub WebSite (Full Stack)**  
+A responsive UI clone of WhatsApp Web with interactive chat features.  
+**Tech Stack:** HTML, CSS, JavaScript,React.js,Node.js,Express.js,MongoDB,TailwindCSS 
+🔗 **[Live Demo](https://your-project-link.com)**  
+
+### 🌟 **Twitter Clone**  
+A frontend clone of Twitter using Tailwind CSS.  
+**Tech Stack:** HTML, Tailwind CSS  
+🔗 **[Live Demo](https://your-project-link.com)**  
+
+---
+
+## 🎯 My Goals for 2025  
+✅ Master **React & MERN Stack**  
+✅ Improve **Data Structures & Algorithms (DSA)**  
+✅ Build **Full-Stack Projects & APIs**  
+✅ Contribute to **Open Source**  
+✅ Develop **React Native Mobile Apps**  
+
+---
+
+🚀 **Thank you for visiting!** Don't forget to **star ⭐ my repositories** and follow for more updates.  
+
