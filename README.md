@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tek Narayan Yadav</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="400px">
+  <img src="https://th.bing.com/th/id/R.201a0fce023b2b6590a6b18a4fdd4f16?rik=i4TmB%2ftPJzQPbg&pid=ImgRaw&r=0" width="400px">
 </p>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack Enthusiast 🚀</h3>
 
