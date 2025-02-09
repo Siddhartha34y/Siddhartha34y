@@ -61,7 +61,7 @@ A responsive UI clone of WhatsApp Web with interactive chat features.
 ### 🌟 **Twitter Clone**  
 A frontend clone of Twitter using Tailwind CSS.  
 **Tech Stack:** HTML, Tailwind CSS  
-🔗 **[Live Demo]([https://your-project-link.com](https://www.linkedin.com/posts/tek-narayan-yadav-108938289_webdevelopment-frontenddevelopment-twitterclone-activity-7259247668810448896-SX7b?utm_source=social_share_video_v2&utm_medium=android_app&utm_campaign=copy_link))**  
+🔗 **[Live Demo]([https://www.linkedin.com/posts/tek-narayan-yadav-108938289_webdevelopment-frontenddevelopment-twitterclone-activity-7259247668810448896-SX7b?utm_source=social_share_video_v2&utm_medium=android_app&utm_campaign=copy_link])**  
 
 ---
 
