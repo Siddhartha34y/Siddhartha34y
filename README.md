@@ -58,7 +58,7 @@ A travel guide website that provides detailed information about **Paris, NYC, To
 ### 🌟 **Spotify WebSite (Frontend)**  
 A responsive UI clone of Spotify Web with interactive Listing Song features.  
 **Tech Stack:** HTML, CSS, JavaScript,TailwindCSS 
-📽 **[Live Demo](https://your-project-link.com)**  
+📽 **[Live Demo](https://github.com/Siddhartha34y/Siddhartha34y/blob/main/WhatsApp%20Video%202025-02-10%20at%2001.23.17_fb472fe5.mp4)**  
 
 ### 🌟 **Twitter Clone**  
 A frontend clone of Twitter using Tailwind CSS.  
