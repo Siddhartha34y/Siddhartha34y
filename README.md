@@ -16,7 +16,8 @@
 - 🛠 **Building scalable full-stack applications with React.js, Node.js, MongoDB, and Express.js**  
 - 👯 Looking to **collaborate on exciting Web Development projects**  
 - 💬 Ask me about **JavaScript, React, MongoDB, Node.js, Java, Python, and more!**  
-- 🌍 **Check out my Portfolio:** **[Click Here](https://imaginative-conkies-077921.netlify.app/)**  
+- 🌍 **Check out my Portfolio:** **[Click Here](https://imaginative-conkies-077921.netlify.app/)**
+-  🌍 **Check out my Resume:** **[Click Here](https://flourishing-truffle-3cf1ff.netlify.app)**  
 - ⚡ **Fun fact:** I love solving coding challenges & debugging complex issues!  
 
 ---
